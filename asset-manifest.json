@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/ikhan/static/css/main.5c38af8d.chunk.css",
+    "main.js": "/ikhan/static/js/main.873a3502.chunk.js",
+    "main.js.map": "/ikhan/static/js/main.873a3502.chunk.js.map",
+    "runtime-main.js": "/ikhan/static/js/runtime-main.e63c26b6.js",
+    "runtime-main.js.map": "/ikhan/static/js/runtime-main.e63c26b6.js.map",
+    "static/css/2.75c4ecca.chunk.css": "/ikhan/static/css/2.75c4ecca.chunk.css",
+    "static/js/2.e748517f.chunk.js": "/ikhan/static/js/2.e748517f.chunk.js",
+    "static/js/2.e748517f.chunk.js.map": "/ikhan/static/js/2.e748517f.chunk.js.map",
+    "index.html": "/ikhan/index.html",
+    "precache-manifest.b2067208fe1293bb8b5c16bf74c63e89.js": "/ikhan/precache-manifest.b2067208fe1293bb8b5c16bf74c63e89.js",
+    "service-worker.js": "/ikhan/service-worker.js",
+    "static/css/2.75c4ecca.chunk.css.map": "/ikhan/static/css/2.75c4ecca.chunk.css.map",
+    "static/css/main.5c38af8d.chunk.css.map": "/ikhan/static/css/main.5c38af8d.chunk.css.map",
+    "static/js/2.e748517f.chunk.js.LICENSE.txt": "/ikhan/static/js/2.e748517f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/ikhan/static/media/center.400a33e1.jfif",
+    "static/media/cv_pdf.pdf": "/ikhan/static/media/cv_pdf.62ed017b.pdf",
+    "static/media/khaleej-ships.png": "/ikhan/static/media/khaleej-ships.25dc0d89.png",
+    "static/media/starter-site.png": "/ikhan/static/media/starter-site.d52d13b4.png",
+    "static/media/starter-site2.png": "/ikhan/static/media/starter-site2.6876d474.png",
+    "static/media/tech-automation.png": "/ikhan/static/media/tech-automation.5a731de3.png",
+    "static/media/todo-list.png": "/ikhan/static/media/todo-list.e2331541.png",
+    "static/media/white-logo.png": "/ikhan/static/media/white-logo.5b6f7591.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e63c26b6.js",
+    "static/css/2.75c4ecca.chunk.css",
+    "static/js/2.e748517f.chunk.js",
+    "static/css/main.5c38af8d.chunk.css",
+    "static/js/main.873a3502.chunk.js"
+  ]
+}
