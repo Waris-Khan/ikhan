@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ikhan/static/css/main.5c38af8d.chunk.css",
+    "main.css": "/ikhan/static/css/main.cf3a9abd.chunk.css",
     "main.js": "/ikhan/static/js/main.873a3502.chunk.js",
     "main.js.map": "/ikhan/static/js/main.873a3502.chunk.js.map",
     "runtime-main.js": "/ikhan/static/js/runtime-main.e63c26b6.js",
@@ -9,10 +9,10 @@
     "static/js/2.e748517f.chunk.js": "/ikhan/static/js/2.e748517f.chunk.js",
     "static/js/2.e748517f.chunk.js.map": "/ikhan/static/js/2.e748517f.chunk.js.map",
     "index.html": "/ikhan/index.html",
-    "precache-manifest.b2067208fe1293bb8b5c16bf74c63e89.js": "/ikhan/precache-manifest.b2067208fe1293bb8b5c16bf74c63e89.js",
+    "precache-manifest.8479daf921c6274e7c83f9e9fc89e103.js": "/ikhan/precache-manifest.8479daf921c6274e7c83f9e9fc89e103.js",
     "service-worker.js": "/ikhan/service-worker.js",
     "static/css/2.75c4ecca.chunk.css.map": "/ikhan/static/css/2.75c4ecca.chunk.css.map",
-    "static/css/main.5c38af8d.chunk.css.map": "/ikhan/static/css/main.5c38af8d.chunk.css.map",
+    "static/css/main.cf3a9abd.chunk.css.map": "/ikhan/static/css/main.cf3a9abd.chunk.css.map",
     "static/js/2.e748517f.chunk.js.LICENSE.txt": "/ikhan/static/js/2.e748517f.chunk.js.LICENSE.txt",
     "static/media/index.css": "/ikhan/static/media/center.400a33e1.jfif",
     "static/media/cv_pdf.pdf": "/ikhan/static/media/cv_pdf.62ed017b.pdf",
@@ -27,7 +27,7 @@
     "static/js/runtime-main.e63c26b6.js",
     "static/css/2.75c4ecca.chunk.css",
     "static/js/2.e748517f.chunk.js",
-    "static/css/main.5c38af8d.chunk.css",
+    "static/css/main.cf3a9abd.chunk.css",
     "static/js/main.873a3502.chunk.js"
   ]
 }
