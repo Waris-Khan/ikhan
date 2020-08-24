@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ikhan/static/css/main.cf3a9abd.chunk.css",
-    "main.js": "/ikhan/static/js/main.4d0d2971.chunk.js",
-    "main.js.map": "/ikhan/static/js/main.4d0d2971.chunk.js.map",
+    "main.js": "/ikhan/static/js/main.b7fa591e.chunk.js",
+    "main.js.map": "/ikhan/static/js/main.b7fa591e.chunk.js.map",
     "runtime-main.js": "/ikhan/static/js/runtime-main.e63c26b6.js",
     "runtime-main.js.map": "/ikhan/static/js/runtime-main.e63c26b6.js.map",
     "static/css/2.75c4ecca.chunk.css": "/ikhan/static/css/2.75c4ecca.chunk.css",
     "static/js/2.7c18aceb.chunk.js": "/ikhan/static/js/2.7c18aceb.chunk.js",
     "static/js/2.7c18aceb.chunk.js.map": "/ikhan/static/js/2.7c18aceb.chunk.js.map",
     "index.html": "/ikhan/index.html",
-    "precache-manifest.f2e1ebb4e2d3634e4f40ba4b2290e12f.js": "/ikhan/precache-manifest.f2e1ebb4e2d3634e4f40ba4b2290e12f.js",
+    "precache-manifest.bb60babed647af4044dfd6784de5bf70.js": "/ikhan/precache-manifest.bb60babed647af4044dfd6784de5bf70.js",
     "service-worker.js": "/ikhan/service-worker.js",
     "static/css/2.75c4ecca.chunk.css.map": "/ikhan/static/css/2.75c4ecca.chunk.css.map",
     "static/css/main.cf3a9abd.chunk.css.map": "/ikhan/static/css/main.cf3a9abd.chunk.css.map",
@@ -29,6 +29,6 @@
     "static/css/2.75c4ecca.chunk.css",
     "static/js/2.7c18aceb.chunk.js",
     "static/css/main.cf3a9abd.chunk.css",
-    "static/js/main.4d0d2971.chunk.js"
+    "static/js/main.b7fa591e.chunk.js"
   ]
 }
